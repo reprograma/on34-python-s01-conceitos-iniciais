@@ -2,7 +2,7 @@
   <img src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
 </h1>
 
-# Tema da Aula
+# Conceitos iniciais e versionamento de código
 
 Turma Online On34 | Python | Semana 01 | 2024 | <a href="https://www.linkedin.com/in/jenifer-pl%C3%A1cido-00b5611ab/" target="_blank" rel="noopener noreferrer">Professora Jenifer Plácido</a>
 
