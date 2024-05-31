@@ -126,6 +126,16 @@ Antes de começar, vamos organizar nosso setup.
 - [Typora](https://typora.io/#feature)
 
 
+## Contribuição
+
+Encorajo você a contribuir com esta aula! Se você tiver sugestões, encontrar problemas ou quiser adicionar conteúdo, sinta-se à vontade para abrir uma issue ou enviar um pull request. Sua colaboração é fundamental para melhorar a qualidade do curso para todas as alunas.
+
+## Contato
+
+Se você precisar de assistência adicional durante o curso ou tiver dúvidas específicas, entre em contato comigo através do slack ou <a href="https://www.linkedin.com/in/jenifer-pl%C3%A1cido-00b5611ab/" target="_blank" rel="noopener noreferrer">Linkedin</a>. Estou aqui para ajudá-la a ter sucesso!
+
+Estou ansiosa para embarcar nesta jornada de aprendizado com vocês. Vamos começar a codificar juntas! 🚀
+
 <p align="center">
 Desenvolvido com :purple_heart:  
 </p>
