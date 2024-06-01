@@ -1,138 +1,112 @@
-### Atividades de GitHub: Fork, Pasta e README
-
-#### Fazer Fork do Repositório da Aula
-
-1. **Acessar o Repositório da Aula**:
-   - Vá para o repositório da aula no GitHub
-
-2. **Fazer Fork do Repositório**:
-   - No canto superior direito da página do repositório, clique no botão `Fork`.
-
-#### Clonar o Repositório Forkado para o Seu Computador
-
-1. **Abrir o Terminal ou Prompt de Comando**.
-
-2. **Clonar o Repositório Forkado**:
-
-   - Navegue até o diretório onde você deseja clonar o repositório.
-
-   - Execute o comando:
-
-     ```sh
-     git clone https://github.com/<seu-usuario>/<nome-do-repositorio>.git
-     ```
-
-     
-
-####  Criar uma Pasta com Seu Nome
-
-1. **Navegar até o Diretório do Repositório Clonado**:
-
-   ```sh
-   cd <nome-do-repositorio>
-   ```
-
-2. **Criar uma Pasta com Seu Nome**:
-
-   - No terminal:
-
-     ```sh
-     mkdir <seu-nome>
-     ```
-
-     Substitua `<seu-nome>` pelo seu próprio nome (sem espaços).
-
-#### Adicionar um README.md na Pasta Criada
-
-1. **Navegar até a Pasta Criada**:
-
-   ```sh
-   cd <seu-nome>
-   ```
-
-2. **Criar um Arquivo README.md**:
-
-   - No terminal:
-
-     ```sh
-     touch README.md
-     ```
-
-   - Ou, se estiver usando um editor de texto, crie um arquivo chamado `README.md` dentro da pasta.
-
-3. **Editar o Arquivo README.md**:
-
-   - Abra o arquivo `README.md` em um editor de texto (como VSCode).
-   - Adicione conteúdo divertido e motivador sobre você. Aqui está um exemplo:
-
 ```markdown
-# Olá, Mundo! 🌍
+## 🤔 O Que é um Fork?
 
-Bem-vindo ao meu perfil GitHub! Meu nome é [Seu Nome] e aqui está um pouco sobre mim de uma forma divertida e motivadora:
+Um **fork** é uma cópia de um repositório de código que você cria na sua própria conta GitHub. Ele permite que você faça mudanças no código de forma independente, sem afetar o repositório original. Forks são frequentemente usados para contribuir com projetos de código aberto: você faz um fork do repositório, faz suas mudanças e, então, propõe essas mudanças ao projeto original através de um pull request.
 
-## Sobre Mim 🧑‍💻
+## 🚀 O Que é um Pull Request?
 
-- 🎓 **Formação**: Sou formado(a) em [Seu Curso] pela [Sua Universidade].
-- 🛠 **Habilidades**: Adoro programar em Python, JavaScript e explorar novas tecnologias.
-- 🎨 **Hobbies**: Nas horas vagas, gosto de desenhar, tocar violão e jogar videogame.
-- 🌟 **Objetivos**: Meu objetivo é me tornar um(a) desenvolvedor(a) full-stack e contribuir para projetos open-source.
+Um **pull request (PR)** é uma maneira de propor mudanças no código de um repositório. Quando você cria um PR, está solicitando que os mantenedores do repositório original revisem e aceitem suas mudanças. É uma ferramenta fundamental para a colaboração em projetos de software, especialmente em projetos de código aberto.
 
-## Curiosidades Divertidas 🎉
+## 📋 Passo a Passo para Fazer um Fork e Criar um Pull Request
 
-- 🐶 Tenho um cachorro chamado [Nome do Cachorro] que adora correr no parque.
-- 🍕 Meu prato favorito é pizza, especialmente de calabresa.
-- 🌍 Sonho em viajar pelo mundo e conhecer diferentes culturas.
+### 1. Faça um Fork do Repositório 🍴
 
-## Objetivos ao terminar o curso
+1. Vá para a página principal do repositório.
+2. Clique no botão **Fork** no canto superior direito da página.
+3. Isso criará uma cópia do repositório na sua conta GitHub.
 
-- Criar uma startup para análise de dados 
+### 2. Clone o Repositório Forkado 💻
 
-Espero que tenha gostado de saber um pouco mais sobre mim! Vamos nos conectar e construir algo incrível juntos!
+Para trabalhar no código, você precisa clonar o repositório forkado para o seu computador. No terminal, execute:
 
-[LinkedIn](#) | [Twitter](#) | [Instagram](#)
-
----
-*Feito com ❤️ por [Seu Nome]*
+```sh
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
+cd nome-do-repositorio
 ```
 
-4. **Salvar o Arquivo** após editar.
+### 3. Configure o Upstream 🔄
 
-####  Comitar e Enviar as Mudanças para o GitHub
+Para manter seu fork sincronizado com o repositório original, configure um repositório remoto chamado `upstream`:
 
-1. **Adicionar a Pasta e o README.md ao Staging Area**:
+```sh
+git remote add upstream https://github.com/reprograma/on34-python-s01-conceitos-iniciais
+git fetch upstream
+```
 
-   ```sh
-   git add <seu-nome>/README.md
-   ```
+### 4. Crie uma Nova Branch 🌿
 
-2. **Fazer o Commit das Mudanças**:
+Crie uma nova branch para trabalhar nas suas mudanças. Isso mantém o código principal limpo e organizado:
 
-   ```sh
-   git commit -m "Adicionei README.md com informações divertidas na pasta <seu-nome>"
-   ```
+```sh
+git checkout -b seu-nome
+```
 
-3. **Enviar (Push) as Mudanças para o GitHub**:
+### 5. Faça Suas Alterações 🛠️
 
-   ```sh
-   git push origin main
-   ```
+Faça as mudanças necessárias no código. Certifique-se de testar suas alterações antes de prosseguir.
 
-####  Criar um Pull Request
+### 6. Commit suas Alterações ✅
 
-1. **Acessar o Repositório Forkado no GitHub**.
-2. **Criar um Pull Request**:
-   - Clique no botão "Pull request".
-   - Clique no botão "New pull request".
-   - Compare suas mudanças com o repositório original.
-   - Adicione uma descrição ao pull request explicando o que você fez.
-   - Clique em "Create pull request".
+Adicione e commit suas alterações com uma mensagem descritiva:
 
-### Resumo das Atividades
+```sh
+git add .
+git commit -m "Descrição das mudanças feitas"
+```
 
-1. **Fazer fork** do repositório da aula no GitHub.
-2. **Clonar o repositório forkado** para o seu computador.
-3. **Criar uma pasta** com seu nome dentro do repositório.
-4. **Adicionar um README.md** com informações divertidas sobre você dentro da pasta.
-5. **Adicionar, comitar e enviar** as mudanças para o GitHub.
-6. **Criar um pull request** para o repositório original da aula.
+### 7. Sincronize seu Fork (Opcional, mas Recomendado) 🔄
+
+Antes de enviar suas mudanças, é uma boa prática sincronizar seu fork com o repositório original para evitar conflitos:
+
+```sh
+git fetch upstream
+git checkout main
+git merge upstream/main
+```
+
+### 8. Envie as Alterações para o Seu Repositório Forkado 🚀
+
+Envie suas mudanças para o seu repositório forkado no GitHub:
+
+```sh
+git push origin minha-nova-funcionalidade
+```
+
+### 9. Abra um Pull Request ✨
+
+1. Vá para o seu repositório forkado no GitHub.
+2. Clique no botão **Compare & pull request**.
+3. Descreva suas alterações na descrição do Pull Request.
+4. Clique em **Create pull request**.
+
+### 10. Acompanhe o Pull Request 🔍
+
+Depois de criar o Pull Request, a professora vai revisá-lo. Ela pode solicitar alterações ou fazer perguntas sobre o seu código. Acompanhe o Pull Request e responda a quaisquer comentários ou solicitações.
+
+## 📝 Resumo dos Comandos
+
+```sh
+# Clone o repositório forkado
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
+cd nome-do-repositorio
+
+# Configure o upstream
+git remote add upstream https://github.com/reprograma/on34-python-s01-conceitos-iniciais
+git fetch upstream
+
+# Crie uma nova branch
+git checkout -b SEU-NOME
+
+# Faça suas alterações, depois adicione e commit
+git add .
+git commit -m "Descrição das mudanças feitas"
+
+# Sincronize com o repositório original
+git fetch upstream
+git checkout main
+git merge upstream/main
+
+# Envie suas alterações
+git push origin SEU-NOME
+```
 
