@@ -107,6 +107,6 @@ git checkout main
 git merge upstream/main
 
 # Envie suas alterações
-git push origin SEU-NOME
+git push origin main
 ```
 

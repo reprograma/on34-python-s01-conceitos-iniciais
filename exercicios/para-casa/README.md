@@ -129,6 +129,11 @@ Espero que tenha gostado de saber um pouco mais sobre mim! Vamos nos conectar e 
    - Adicione uma descrição ao pull request explicando o que você fez.
    - Clique em "Create pull request".
 
+
+#### Entrega da atividade
+
+Copie o link do seu pull request e cole na entrega de atividade da S01 no classroom
+
 ### Resumo das Atividades
 
 1. **Fazer fork** do repositório da aula no GitHub.
