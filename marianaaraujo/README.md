@@ -1,15 +1,16 @@
-echo # README.md
 
 # Oiii, Mundo! 🌍
 
-Meu nome é Mariana, mas pode me chamar de Mari. Vem conhecer um pouco sobre mim:
+Meu nome é Mariana, mas pode me chamar de Mari 🥰
+
+Vem conhecer um pouco sobre mim:
 
 - **Formação:** Sou formada em Psicologia 🧚🏽‍♀️
 - **Habilidades:** Sou uma pessoa voltada ao social, gosto de relações humanas. Atuo há 3 anos na área de R&S, nela consigo disseminar um processo mais incluso, praticar minha escuta ativa, gerar resultados e oportunidades
 - **Hobbies:** Gosto de jogar the sims e stardew valley, ouvir música, ler poesias e quadrinhos, assistir séries e filmes, tirar fotos, estar em contato com a natureza, familia e amigos
 - **Objetivos:** Atualmente é me realocar no mercado de trabalho, ser fluente em inglês, aprender análise de dados e realizar uma viagem internacional.
 
-**Curiosidades Divertidas **🎉
+**Curiosidades Divertidas**🎉
 
 - Sou muitooo fã de Taylor Swift 👩🏼‍🎤
 - Consigo passar horas no twitter e no pinterest 👩🏽‍💻
