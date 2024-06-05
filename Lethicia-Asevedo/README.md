@@ -9,9 +9,17 @@ Para visualizar o repositório em sua máquina, siga as instruções abaixo:
     1. Clone o repositório utilizando o comando `git clone` seguido do link do repositório.
     2.  Em seguida, abra o repositório no seu editor de código de preferência; recomendamos o VSCode.
 
+
+
 ***Uso do projeto:***
 
-O projeto é aberto para que qualquer pessoa possa realizar melhorias ou criar sua própria versão.
+Execute os scripts do projeto no terminal com os comandos: 
+
+    python main.py
+    python zen.py
+ *Recomendações: execute cada comando individualmente e leia atentamente as mensagens exibidas.*
+
+- O projeto é aberto para que qualquer pessoa possa realizar melhorias ou criar sua própria versão.
 
 ***Este projeto está licenciado sob a licença MIT.***
 
