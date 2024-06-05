@@ -3,7 +3,7 @@
 Olá! 
 Seja bem-vindo ao meu perfil GitHub!
 
-Sou a Nara, geógrafa atualmente me pós-graduando em Geoprocessamento.
+Sou a Nara. Sou geógrafa atualmente se pós-graduando em Geoprocessamento.
 
 Habilidades 💼
 - Tenho experiência em planejamento e execução de projetos culturais,
