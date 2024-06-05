@@ -1,0 +1,1 @@
+A aula da semana 1 foi muito legal, pois a professora jenifer Placido explicou tudo muito  bem de uma maneira que conseguir entender os conteudos e as atividades que devem ser entregue para o modulo primeira semana.
