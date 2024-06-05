@@ -32,7 +32,8 @@ Objetivos ao Terminar o Curso 🎓
 - Poder inovar e ser criativa no meu trabalho com mapas e análise de dados territoriais.
 
 
-Obrigado por visitar meu perfil! 
+Obrigada pela visita!
+
 Vamos nos conectar e transformar ideias em realidade juntos!
 
 
