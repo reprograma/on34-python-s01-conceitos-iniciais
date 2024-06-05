@@ -23,7 +23,7 @@ Adoro brechós.
 Tento ir toda semana ao meu restaurante comfy para desestressar. Eles possuem o melhor caldo da minha região!
 
 Objetivos ao Terminar o Curso 🎓
-Poder inovar e ser criativa no meu trabalho com mapas e análise de dados territoriais.
+- Poder inovar e ser criativa no meu trabalho com mapas e análise de dados territoriais.
 
 
 Obrigado por visitar meu perfil! 
