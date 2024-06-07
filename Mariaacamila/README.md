@@ -1,4 +1,4 @@
-# README.md Olá, Mundo! 🌍
+# Olá, Mundo! 🌍
 
 Bem-vindo ao meu perfil GitHub! Meu nome é Maria Camila e aqui está um pouco sobre mim de uma forma divertida e motivadora:
 
