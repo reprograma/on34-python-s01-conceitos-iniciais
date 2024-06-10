@@ -70,8 +70,8 @@ Estamos aqui para ajudar e queremos que todas se sintam confortáveis e confiant
 Antes de começar, vamos organizar nosso setup.
 
 * Fork esse repositório 
-* Clone o fork na sua máquina (Para isso basta abrir o seu terminal e digitar `git clone https://github.com/reprograma/on34-python-s01-conceitos-iniciais.git`)
-* Entre na pasta do seu repositório (Para isso basta abrir o seu terminal e digitar `cd on34-python-s01-conceitos-iniciais`)
+* Clone o fork na sua máquina (Para isso basta abrir o seu terminal e digitar `git clone https://github.com/reprograma/on34-python-s01-conceitos-iniciais.git`
+* Entre na pasta do seu repositório (Para isso basta abrir o seu terminal e digitar `cd on34-python-s01-conceitos-iniciais`
 
 ## Conteúdo
 
