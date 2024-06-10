@@ -1,4 +1,4 @@
-Readme.md
+
 Olá, Mundo! 🌍
 
 Bem-vindos ao meu perfil GitHub! Meu nome é Tammy Teixeira e aqui está um pouco sobre mim de uma forma divertida e motivadora:
