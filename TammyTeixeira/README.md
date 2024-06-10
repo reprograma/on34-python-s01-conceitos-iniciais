@@ -8,11 +8,11 @@ Sobre Mim 🧑‍💻
 
 - Habilidades: Adoro programar em Python, Html, Css, explorar novas tecnologias.
 - Hobbies: Nas horas vagas gosto de passear, ir a praia/cachoeira, remar, dançar. De tudo um pouco! hehe
-- Objetivos: Meu objetivo é melhorar a vida tanto pessoal, quanto financeira nessa viagem pelo planeta Terra.
+- Objetivos: Meu objetivo é melhorar a vida tanto pessoal, quanto profissional nessa viagem pelo planeta Terra.
 
 Curiosidades Divertidas 🎉
 
-- Amos animais, inclusive tenho um salsichinha parceiro em todas as horas e que adora uma aventura.
+- Amo os animais, inclusive tenho um salsichinha parceiro em todas as horas e que adora uma aventura.
 - Sonho em viajar pelo mundo. Sou curiosa por idiomas, diferentes culturas, e costumes.
 
 
