@@ -18,8 +18,10 @@ Objetivos ao Terminar o Curso
 
 - Formação Análise de Dados
 
+
 Espero que tenha gostado de saber um pouco mais sobre mim! Vamos nos conectar e construir algo incrível juntos!
 
-[LinkedIn](#) | [Twitter](#) | [Instagram](#)
+[LinkedIn](#) |  https://www.linkedin.com/in/manuelli-martins-duarte-84a737134/
+
 
 Feito com ❤️ por Manuelli Martins
