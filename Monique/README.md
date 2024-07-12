@@ -1,0 +1,1 @@
+Eu tenho um canal no YouTube chamado Preta Reta, que é como se fosse minha cachaça. Nele abordo assuntos motivacionais de forma objetiva e prática, incentivando mulheres a serem elas mesmas.
