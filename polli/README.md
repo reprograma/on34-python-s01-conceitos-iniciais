@@ -1,5 +1,5 @@
-#README.md
-Objetivo: Fazer atividade criando um Fork do Repositório da Aula 01 (29/06/2024)
+# 🌟 Aula sobre: Conceitos iniciais e versionamento de código🌟
+Objetivo: Fazer atividade criando um Fork do Repositório da Aula 01 - {REPROGRAMA} - Amálise de dados com python (29/06/2024)
 
 Passo 1:
    - Acessar no GitHub: https://github.com/reprograma/on34-python-s01-conceitos-iniciais
