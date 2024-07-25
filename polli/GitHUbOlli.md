@@ -3,7 +3,7 @@ Olá mundo,
 Bem-vindo ao GitHubOlli, o meu perfil GitHub! Meu nome é Polli e nas próximas linhas você
 irá me conhecer um pouco.
 
-Formaçãp 👩🏽‍🎓:
+Formação 👩🏽‍🎓:
 Bacharel em Biologia, com mestrado em Sistemas Aquáticos Tropicais.
 Já rabalhei com peixes 🐠, pescadores e ouvindo baleias e golfinhos🐬🐳🐋, em alto mar!
 
